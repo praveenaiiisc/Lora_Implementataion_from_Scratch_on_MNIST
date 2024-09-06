@@ -1,1 +1,2 @@
-# Lora_Implementataion_from_Scratch_on_MNIST
+# pytorch-lora
+LORA: Low-Rank Adaptation of Large Language Models implemented using PyTorch
